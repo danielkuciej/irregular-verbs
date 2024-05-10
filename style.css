@@ -102,29 +102,33 @@ h4 {
 }
 
 .color-1 {
-  width: 12px;
+  width: 14px;
   height: 12px;
   border-radius: 3px;
+  border: 1px solid #444;
   background-color: var(--color-3);
 }
 
 .color-2 {
-  width: 12px;
+  width: 14px;
   height: 12px;
   border-radius: 3px;
+  border: 1px solid #444;
   background-color: var(--color-4);
 }
 
 .color-3 {
-  width: 12px;
+  width: 14px;
   height: 12px;
   border-radius: 3px;
+  border: 1px solid #444;
   background-color: var(--color-5);
 }
 
 .color-4 {
-  width: 12px;
+  width: 14px;
   height: 12px;
   border-radius: 3px;
+  border: 1px solid #444;
   background-color: var(--color-6);
 }
