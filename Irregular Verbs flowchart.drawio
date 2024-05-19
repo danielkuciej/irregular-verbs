@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T17:00:56.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Nvd47Xgl3RBUKSby4pN8" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T17:33:08.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_XhXxDB8V198v-I1bjLV" version="24.4.4" type="github">
   <diagram name="Strona-1" id="HVh6dgmQkRU_LPTNf-1_">
     <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-19" target="uzbUSXCzAW2C1Ospv1cJ-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-19" value="Switch type field color to green" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-19" value="Switch type fields color to green" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-24" target="uzbUSXCzAW2C1Ospv1cJ-14">
@@ -61,11 +61,14 @@
             <mxPoint x="-13" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-24" target="uzbUSXCzAW2C1Ospv1cJ-37">
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-24" target="uzbUSXCzAW2C1Ospv1cJ-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-24" value="Switch incorrect type field color to red" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="800" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-29" target="uzbUSXCzAW2C1Ospv1cJ-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-29" value="Add 1 point to &#39;Correct Answers&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1121" width="120" height="60" as="geometry" />
@@ -76,14 +79,60 @@
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-31" value="Display verb in polish translation field" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-35" value="Add 1 point to &#39;Wrong answers&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-35" target="uzbUSXCzAW2C1Ospv1cJ-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-37" target="uzbUSXCzAW2C1Ospv1cJ-35">
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-35" value="Add 1 point to &#39;Wrong answers&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-37" target="uzbUSXCzAW2C1Ospv1cJ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-37" value="Switch correct type field color to green" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-40" value="Correct&lt;div&gt;answers?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="uzbUSXCzAW2C1Ospv1cJ-45" source="uzbUSXCzAW2C1Ospv1cJ-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="uzbUSXCzAW2C1Ospv1cJ-42">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-45" target="uzbUSXCzAW2C1Ospv1cJ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-45" value="Switch type field color to green" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1120.5" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-46" target="uzbUSXCzAW2C1Ospv1cJ-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-46" value="Add 1 point to &#39;Correct Answers&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-47" target="uzbUSXCzAW2C1Ospv1cJ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-47" value="Show correct verb on sheet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-49" value="Delete correct verb from pool of verbs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-54" target="uzbUSXCzAW2C1Ospv1cJ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-54" value="Show correct verb on sheet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-55" value="Delete correct verb from pool of verbs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
