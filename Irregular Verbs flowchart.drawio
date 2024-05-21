@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T17:33:08.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_XhXxDB8V198v-I1bjLV" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T19:37:40.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cEOBsXZkLyNOqbeEAbZc" version="24.4.4" type="github">
   <diagram name="Strona-1" id="HVh6dgmQkRU_LPTNf-1_">
-    <mxGraphModel dx="954" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxPoint x="160" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-3" value="Click New Word" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-3" value="User click New word button" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-6" target="uzbUSXCzAW2C1Ospv1cJ-31">
@@ -18,17 +18,14 @@
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-6" value="Generate random verb" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-9" target="uzbUSXCzAW2C1Ospv1cJ-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-9" value="User types answers in fields" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-12" target="uzbUSXCzAW2C1Ospv1cJ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-12" value="User clicks Check btn" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="640" width="120" height="60" as="geometry" />
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-12" value="User click Check button" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-14" target="uzbUSXCzAW2C1Ospv1cJ-19">
           <mxGeometry relative="1" as="geometry" />
@@ -42,7 +39,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-14" value="Correct&lt;div&gt;answers?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-14" target="uzbUSXCzAW2C1Ospv1cJ-14">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-19" value="Switch type fields color to green" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-24" target="uzbUSXCzAW2C1Ospv1cJ-14">
           <mxGeometry relative="1" as="geometry" />
@@ -65,13 +62,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-24" value="Switch incorrect type field color to red" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="800" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-29" target="uzbUSXCzAW2C1Ospv1cJ-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-29" value="Add 1 point to &#39;Correct Answers&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1121" width="120" height="60" as="geometry" />
+          <mxGeometry x="481" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-31" target="uzbUSXCzAW2C1Ospv1cJ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -79,60 +76,78 @@
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-31" value="Display verb in polish translation field" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-35" target="uzbUSXCzAW2C1Ospv1cJ-40">
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-35" target="uzbUSXCzAW2C1Ospv1cJ-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-35" value="Add 1 point to &#39;Wrong answers&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="800" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-37" target="uzbUSXCzAW2C1Ospv1cJ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-37" value="Switch correct type field color to green" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="800" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-37" value="Switch correct type field color to green (if there are any correct answers)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-40" target="uzbUSXCzAW2C1Ospv1cJ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-40" target="uzbUSXCzAW2C1Ospv1cJ-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-40" value="Correct&lt;div&gt;answers?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="960" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="uzbUSXCzAW2C1Ospv1cJ-45" source="uzbUSXCzAW2C1Ospv1cJ-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="150" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-43" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="uzbUSXCzAW2C1Ospv1cJ-42">
-          <mxGeometry x="-0.175" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-45" target="uzbUSXCzAW2C1Ospv1cJ-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-45" value="Switch type field color to green" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1120.5" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-46" target="uzbUSXCzAW2C1Ospv1cJ-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-46" value="Add 1 point to &#39;Correct Answers&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-47" target="uzbUSXCzAW2C1Ospv1cJ-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-47" value="Show correct verb on sheet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uzbUSXCzAW2C1Ospv1cJ-49" value="Delete correct verb from pool of verbs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1440" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-54" target="uzbUSXCzAW2C1Ospv1cJ-55">
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-57" target="uzbUSXCzAW2C1Ospv1cJ-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-54" value="Show correct verb on sheet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-57" value="User click Reset button" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-55" value="Delete correct verb from pool of verbs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-58" target="uzbUSXCzAW2C1Ospv1cJ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-58" value="Claer translation field&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Generate%20random%20verb%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-60" target="uzbUSXCzAW2C1Ospv1cJ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-60" value="Reset correct and wrong answers score&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Generate%20random%20verb%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-61" target="uzbUSXCzAW2C1Ospv1cJ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-61" value="Hide all regular verbs in sheet&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Generate%20random%20verb%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-65" value="Back to the blue color in field to fill" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uzbUSXCzAW2C1Ospv1cJ-69" target="uzbUSXCzAW2C1Ospv1cJ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-69" value="User correct incorrect answers" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-73" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="200" as="geometry">
+            <mxPoint x="-4" y="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uzbUSXCzAW2C1Ospv1cJ-75" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="270.00470588235294" as="geometry">
+            <mxPoint x="112" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
