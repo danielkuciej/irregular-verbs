@@ -185,7 +185,7 @@ h4 {
 }
 
 .hidden p {
-  /* display: none; */
+  display: none;
 }
 
 .label {
