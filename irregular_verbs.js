@@ -1,9 +1,22 @@
 'use strict';
 
 // Selecting elements
+//Buttons
 const btnNewWord = document.querySelector('.btn-new');
 const btnCheck = document.querySelector('.btn-check');
 const btnReset = document.querySelector('.btn-reset');
+
+//Input fields
+const translationField = document.querySelector('.word');
+const infinitiveField = Text(document.querySelector('.infinite').textContent);
+const pastSimpleField = Text(document.querySelector('.past-sim').textContent);
+const pastParticipleField = Text(
+  document.querySelector('.past-parti').textContent
+);
+
+//Scores
+const correctAnsw = document.querySelector('.correct-src');
+const wrongAnsw = document.querySelector('.wrong-src');
 
 //Datas
 const translationWords = [
