@@ -7,7 +7,7 @@ const btnCheck = document.querySelector('.btn-check');
 const btnReset = document.querySelector('.btn-reset');
 
 //Input fields
-const translationField = document.querySelector('.word');
+const translationField = document.querySelector('.word').textContent;
 const infinitiveField = Text(document.querySelector('.infinite').textContent);
 const pastSimpleField = Text(document.querySelector('.past-sim').textContent);
 const pastParticipleField = Text(
@@ -70,3 +70,11 @@ const pastParticipleWords = [
   'bought',
   'caught',
 ];
+
+//Reset values
+const initialization = function () {
+  //   translationField = '';
+  correctAnsw.textContent = 0;
+  //   wrongAnsw = 0;
+};
+initialization();
