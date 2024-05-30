@@ -73,5 +73,9 @@ const initialization = function () {
   translationField.textContent = '';
   correctAnsw.textContent = 0;
   wrongAnsw.textContent = 0;
+
+  document.querySelector('.infinite').style.backgroundColor = '#a3c0ff';
+  document.querySelector('.past-sim').style.backgroundColor = '#a3c0ff';
+  document.querySelector('.past-parti').style.backgroundColor = '#a3c0ff';
 };
 initialization();
