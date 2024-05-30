@@ -7,13 +7,10 @@ const btnCheck = document.querySelector('.btn-check');
 const btnReset = document.querySelector('.btn-reset');
 
 //Input fields
-const translationField = document.querySelector('.word').textContent;
-const infinitiveField = Text(document.querySelector('.infinite').textContent);
-const pastSimpleField = Text(document.querySelector('.past-sim').textContent);
-const pastParticipleField = Text(
-  document.querySelector('.past-parti').textContent
-);
-
+const translationField = document.querySelector('.word');
+const infinitiveField = document.querySelector('.infinite');
+const pastSimpleField = document.querySelector('.past-sim');
+const pastParticipleField = document.querySelector('.past-parti');
 //Scores
 const correctAnsw = document.querySelector('.correct-src');
 const wrongAnsw = document.querySelector('.wrong-src');
@@ -73,8 +70,8 @@ const pastParticipleWords = [
 
 //Reset values
 const initialization = function () {
-  //   translationField = '';
+  translationField.textContent = '';
   correctAnsw.textContent = 0;
-  //   wrongAnsw = 0;
+  wrongAnsw.textContent = 0;
 };
 initialization();
