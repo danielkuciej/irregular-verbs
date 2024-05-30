@@ -79,3 +79,27 @@ const initialization = function () {
   document.querySelector('.past-parti').style.backgroundColor = '#a3c0ff';
 };
 initialization();
+
+//New Word button
+
+btnNewWord.addEventListener('click', function () {
+  let randomPolishWord =
+    translationWords[Math.floor(Math.random() * translationWords.length)];
+
+  //   const translationSlice = translationWords.slice();
+  //   const newArr = [];
+
+  //   for (let i = 0; i < 1; i++) {
+  //     let arr =
+  //       translationSlice[Math.floor(Math.random() * translationSlice.length)];
+
+  //     let index = translationSlice.indexOf(arr);
+  //     translationSlice.splice(index, 1);
+
+  //     newArr.push(arr);
+  //   }
+
+  //Display results
+  translationField.textContent = randomPolishWord;
+  console.log(randomPolishWord);
+});
